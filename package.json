@@ -19,7 +19,6 @@
     "wxt": "^0.20.6"
   },
   "dependencies": {
-    "@elevenlabs/elevenlabs-js": "^2.22.0",
     "@google/genai": "^1.29.0"
   }
 }
